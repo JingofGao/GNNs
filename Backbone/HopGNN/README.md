@@ -1,4 +1,4 @@
-## hopGNN
+## HopGNN
 ### Paper
 - From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm, Jian Pu, Fudan University. (CVPR 2023)
 - https://arxiv.org/abs/2211.11761

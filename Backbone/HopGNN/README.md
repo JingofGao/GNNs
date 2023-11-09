@@ -4,7 +4,7 @@
 - https://arxiv.org/abs/2211.11761
   
 ### Framework
-<img src="./hopGNN.png"/>
+<img src="./HopGNN.png"/>
 
 ### Methods
 - Input: $X, A$

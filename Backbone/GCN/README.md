@@ -3,6 +3,6 @@
 - SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS (ICLR 2017)
 
 ### Framework
-<img src="./hopGNN.png"/>
+<img src="./GCN.png"/>
 
 ### Methods
